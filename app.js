@@ -106,7 +106,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "NINGTHOUJAM BHUNISHAND DEVI",
     roll: "NDUIBC2452", course: "BCA (4 Years)", section: "Section A",
-    meme: null, reason: null },
+    meme: "images/NDUIBC2452.jpg", reason: "relatable" },
   { name: "LINGJELTHOI MAIBRAM",
     roll: "NDUIBC2453", course: "BCA (4 Years)", section: "Section A",
     meme: null, reason: null },
